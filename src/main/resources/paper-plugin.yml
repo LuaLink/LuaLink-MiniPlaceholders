@@ -1,0 +1,14 @@
+name: LuaLink-MiniPlaceholders
+version: "1.0.1"
+authors:
+  - Element4521
+main: xyz.galaxyy.lualink.addons.miniplaceholders.LuaLinkMiniPlaceholders
+description: A LuaLink addon that adds MiniPlaceholder functions.
+api-version: "1.20"
+dependencies:
+  - name: MiniPlaceholders
+    required: true
+    bootstrap: false
+  - name: LuaLink
+    required: true
+    bootstrap: false
